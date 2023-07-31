@@ -155,6 +155,10 @@ button:active{
     background-color: rgb(169, 73, 0);
 }
 
+#formID{
+	padding: 10px;
+}
+
 /* Footer */
   footer {
     width:100%;
